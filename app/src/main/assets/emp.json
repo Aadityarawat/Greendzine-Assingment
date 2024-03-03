@@ -1,0 +1,26 @@
+[
+  {
+    "EmpID": 1,
+    "Name": "John Doe",
+    "DOB": "1990-05-15",
+    "Role": "Software Engineer"
+  },
+  {
+    "EmpID": 2,
+    "Name": "Jane Smith",
+    "DOB": "1988-10-20",
+    "Role": "Product Manager"
+  },
+  {
+    "EmpID": 3,
+    "Name": "Michael Johnson",
+    "DOB": "1995-03-08",
+    "Role": "Data Scientist"
+  },
+  {
+    "EmpID": 4,
+    "Name": "Emily Brown",
+    "DOB": "1992-12-25",
+    "Role": "UX/UI Designer"
+  }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <objectAnimator
+            android:propertyName="backgroundColor"
+            android:valueTo="#2196F3"
+            android:valueType="colorType"/>
+    </item>
+    <item>
+        <objectAnimator
+            android:propertyName="backgroundColor"
+            android:valueTo="@android:color/transparent"
+            android:valueType="colorType"/>
+    </item>
+</selector>
